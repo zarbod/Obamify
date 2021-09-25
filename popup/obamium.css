@@ -1,0 +1,35 @@
+html, body {
+    width: 100px;
+}
+.hidden {
+    display: none;
+}
+
+.button {
+    margin: 3% auto;
+    padding: 4px;
+    text-algin: center;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.obama:hover {
+    background-color: #ff0404;
+}
+
+.obama {
+    background-color: #ed878c;
+}
+
+.reset {
+    backdrop-color: #FBFBC9;
+}
+
+.reset:hover {
+    background-color: #EAEA9D;
+}
+
+
+
+
+

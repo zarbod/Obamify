@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Obamify",
+  "version": "1.0",
+
+  "description": "Gives analytics about most missed words, types of words missed etc for Type racer.",
+  "icons": {
+    "48": "obamiumicon.jpg"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "obamiumicon.jpg",
+    "default_title": "Obamify",
+    "default_popup": "popup/obamium.html"
+  },
+
+  "web_accessible_resources": [
+    "pictures/obamium.jpg"
+  ]
+
+
+}
